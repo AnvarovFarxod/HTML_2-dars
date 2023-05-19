@@ -1,1 +1,1 @@
-# HTML_2-dars
+Ushbu repositoridagi HTML 1-dars bor
